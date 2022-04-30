@@ -1,6 +1,6 @@
 {
-    "name": "moahada/laravel-permission-mongodb",
-    "description": "Permission handling for Laravel 5.2 and up using mongodb",
+    "name": "moahada/laravel-mongodb-permission",
+    "description": "Permission handling for Laravel using mongodb",
     "keywords": [
         "laravel",
         "security",
@@ -8,17 +8,16 @@
         "permission",
         "acl",
         "Moahada",
-        "mostafa",
         "spatie",
         "jenssegers"
     ],
-    "homepage": "https://github.com/mostafaMoahada/laravel-permission-mongodb",
+    "homepage": "https://github.com/moahada/laravel-mongodb-permission",
     "license": "MIT",
     "authors": [
         {
-            "name": "Mostafa Moahada",
-            "email": "dev.mostafa.Moahada@gmail.com",
-            "homepage": "https://github.com/mostafaMoahada",
+            "name": "Aziz MOUBSIT",
+            "email": "aziz@salvia.ma",
+            "homepage": "https://github.com/azizmoubsit",
             "role": "Developer"
         },
         {
