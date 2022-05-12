@@ -1,7 +1,6 @@
 {
     "name": "moahada/laravel-mongodb-permission",
     "description": "Permission handling for Laravel using mongodb",
-    "versions": "1.0",
     "keywords": [
         "laravel",
         "security",
